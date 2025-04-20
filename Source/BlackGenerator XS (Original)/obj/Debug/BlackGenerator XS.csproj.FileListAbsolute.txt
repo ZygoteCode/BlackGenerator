@@ -1,0 +1,30 @@
+C:\Users\katom\source\repos\BlackGenerator XS\bin\Debug\BlackGenerator XS.exe.config
+C:\Users\katom\source\repos\BlackGenerator XS\bin\Debug\BlackGenerator XS.exe
+C:\Users\katom\source\repos\BlackGenerator XS\bin\Debug\BlackGenerator XS.pdb
+C:\Users\katom\source\repos\BlackGenerator XS\bin\Debug\Guna.UI2.dll
+C:\Users\katom\source\repos\BlackGenerator XS\obj\Debug\BlackGenerator XS.csproj.AssemblyReference.cache
+C:\Users\katom\source\repos\BlackGenerator XS\obj\Debug\BlackGenerator XS.csproj.SuggestedBindingRedirects.cache
+C:\Users\katom\source\repos\BlackGenerator XS\obj\Debug\BlackGenerator_XS.Properties.Resources.resources
+C:\Users\katom\source\repos\BlackGenerator XS\obj\Debug\BlackGenerator XS.csproj.GenerateResource.cache
+C:\Users\katom\source\repos\BlackGenerator XS\obj\Debug\BlackGenerator XS.csproj.CoreCompileInputs.cache
+C:\Users\katom\source\repos\BlackGenerator XS\obj\Debug\BlackGenerator XS.csproj.CopyComplete
+C:\Users\katom\source\repos\BlackGenerator XS\obj\Debug\BlackGenerator XS.exe
+C:\Users\katom\source\repos\BlackGenerator XS\obj\Debug\BlackGenerator XS.pdb
+C:\Users\katom\source\repos\BlackGenerator XS\obj\Debug\BlackGenerator_XS.LauncherForm.resources
+C:\Users\katom\source\repos\BlackGenerator XS\obj\Debug\BlackGenerator_XS.Forms.LoginForm.resources
+C:\Users\katom\source\repos\BlackGenerator XS\obj\Debug\BlackGenerator_XS.Forms.MainForm.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackGenerator Leak\Source\BlackGenerator XS (Original)\bin\Debug\BlackGenerator XS.exe.config
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackGenerator Leak\Source\BlackGenerator XS (Original)\bin\Debug\BlackGenerator XS.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackGenerator Leak\Source\BlackGenerator XS (Original)\bin\Debug\BlackGenerator XS.pdb
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackGenerator Leak\Source\BlackGenerator XS (Original)\bin\Debug\Guna.UI2.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackGenerator Leak\Source\BlackGenerator XS (Original)\obj\Debug\BlackGenerator XS.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackGenerator Leak\Source\BlackGenerator XS (Original)\obj\Debug\BlackGenerator XS.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackGenerator Leak\Source\BlackGenerator XS (Original)\obj\Debug\BlackGenerator_XS.LauncherForm.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackGenerator Leak\Source\BlackGenerator XS (Original)\obj\Debug\BlackGenerator_XS.Forms.LoginForm.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackGenerator Leak\Source\BlackGenerator XS (Original)\obj\Debug\BlackGenerator_XS.Forms.MainForm.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackGenerator Leak\Source\BlackGenerator XS (Original)\obj\Debug\BlackGenerator_XS.Properties.Resources.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackGenerator Leak\Source\BlackGenerator XS (Original)\obj\Debug\BlackGenerator XS.csproj.GenerateResource.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackGenerator Leak\Source\BlackGenerator XS (Original)\obj\Debug\BlackGenerator XS.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackGenerator Leak\Source\BlackGenerator XS (Original)\obj\Debug\BlackGenerator XS.csproj.CopyComplete
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackGenerator Leak\Source\BlackGenerator XS (Original)\obj\Debug\BlackGenerator XS.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackGenerator Leak\Source\BlackGenerator XS (Original)\obj\Debug\BlackGenerator XS.pdb

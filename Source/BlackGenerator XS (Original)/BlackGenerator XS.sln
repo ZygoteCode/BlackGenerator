@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackGenerator XS", "BlackGenerator XS.csproj", "{BB0ACE01-06BC-4A40-84D5-9894726ECE73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB0ACE01-06BC-4A40-84D5-9894726ECE73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0ACE01-06BC-4A40-84D5-9894726ECE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0ACE01-06BC-4A40-84D5-9894726ECE73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0ACE01-06BC-4A40-84D5-9894726ECE73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE6E4AB8-6B0C-45E0-A95E-951455153568}
+	EndGlobalSection
+EndGlobal
